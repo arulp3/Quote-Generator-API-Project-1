@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding-top: 100px;
+    background-color: beige;
+    text-align: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+.hero{
+    margin: inherit;
+    align-items: center;
+    height: inherit;
+    width: 50%;
+    background-color: lawngreen;
+    border: 1px solid black;
+}
